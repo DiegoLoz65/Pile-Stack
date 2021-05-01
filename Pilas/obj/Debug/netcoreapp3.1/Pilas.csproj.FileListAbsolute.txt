@@ -1,0 +1,13 @@
+C:\Users\Asrock\Desktop\Projects\Pilas\Pilas\bin\Debug\netcoreapp3.1\Pilas.exe
+C:\Users\Asrock\Desktop\Projects\Pilas\Pilas\bin\Debug\netcoreapp3.1\Pilas.deps.json
+C:\Users\Asrock\Desktop\Projects\Pilas\Pilas\bin\Debug\netcoreapp3.1\Pilas.runtimeconfig.json
+C:\Users\Asrock\Desktop\Projects\Pilas\Pilas\bin\Debug\netcoreapp3.1\Pilas.runtimeconfig.dev.json
+C:\Users\Asrock\Desktop\Projects\Pilas\Pilas\bin\Debug\netcoreapp3.1\Pilas.dll
+C:\Users\Asrock\Desktop\Projects\Pilas\Pilas\bin\Debug\netcoreapp3.1\Pilas.pdb
+C:\Users\Asrock\Desktop\Projects\Pilas\Pilas\obj\Debug\netcoreapp3.1\Pilas.csprojAssemblyReference.cache
+C:\Users\Asrock\Desktop\Projects\Pilas\Pilas\obj\Debug\netcoreapp3.1\Pilas.AssemblyInfoInputs.cache
+C:\Users\Asrock\Desktop\Projects\Pilas\Pilas\obj\Debug\netcoreapp3.1\Pilas.AssemblyInfo.cs
+C:\Users\Asrock\Desktop\Projects\Pilas\Pilas\obj\Debug\netcoreapp3.1\Pilas.csproj.CoreCompileInputs.cache
+C:\Users\Asrock\Desktop\Projects\Pilas\Pilas\obj\Debug\netcoreapp3.1\Pilas.dll
+C:\Users\Asrock\Desktop\Projects\Pilas\Pilas\obj\Debug\netcoreapp3.1\Pilas.pdb
+C:\Users\Asrock\Desktop\Projects\Pilas\Pilas\obj\Debug\netcoreapp3.1\Pilas.genruntimeconfig.cache
